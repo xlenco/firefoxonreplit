@@ -6,7 +6,7 @@
  2. Entry this command to shell
 
 ```
-git clone https://github.com/valetzx/firefoxonreplit && mv -b firefoxonreplit/* ./ && mv -b firefoxonreplit/.[^.]* ./ && rm -rf *~ && rm -rf firefoxonreplit
+git clone https://github.com/xlenco/firefoxonreplit && mv -b firefoxonreplit/* ./ && mv -b firefoxonreplit/.[^.]* ./ && rm -rf *~ && rm -rf firefoxonreplit
 ```
  
  3. Add your VNC_PASSWORD to 🔒Secrets
